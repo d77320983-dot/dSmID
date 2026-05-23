@@ -1,0 +1,6 @@
+{
+  "name": "Text Translator",
+  "description": "An offline-style translator with OCR and text-to-speech capabilities, powered by Gemini.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
